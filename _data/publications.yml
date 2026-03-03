@@ -1,22 +1,56 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "SmallKV: Small Model Assisted Compensation of KV Cache Compression for Efficient LLM Inference."
+    authors: <strong>Yi Zhao</strong>, Yajuan Peng, Nguyen Cam-Tu and et al
+    conference_short: NeurIPS 2025
+    conference: Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2508.02751
+    code: https://github.com/QQQ-yi/SmallKV
+    website: https://neurips.cc/virtual/2025/loc/san-diego/poster/120344
+    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    image: ./assets/img/smallkv.png
+    notes: Spotlight
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "DAC: A Dynamic Attention-aware Approach for Task-Agnostic Prompt Compression."
+    authors: <strong>Yi Zhao</strong>, Zuchao Li, Hai Zhao and et al
+    conference_short: ACL 2025
+    conference: Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2507.11942
+    code: https://github.com/QQQ-yi/DAC
+    website: https://aclanthology.org/2025.acl-long.952/
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/dac.png
+    notes: Main
+
+  - title: "IAM: Efficient Inference through Attention Mapping between Different-scale LLMs"
+    authors: <strong>Yi Zhao</strong>, Zuchao Li and Hai Zhao 
+    conference_short: ACL 2025
+    conference: Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2507.11953
+    code: https://github.com/QQQ-yi/IAM
+    website: https://aclanthology.org/2025.acl-long.959/
+    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    image: ./assets/img/iam.png
+    notes: Main
+
+  - title: "TrigReason: Trigger-Based Collaboration between Small and Large Reasoning Models"
+    authors: <strong>Yi Zhao</strong>, Yajuan Peng, Nguyen Cam-Tu and et al
+    conference_short: Preprint
+    conference: Preprint
+    pdf: https://openreview.net/pdf?id=HrpRxHHd57
+    code: https://github.com/QQQ-yi/TrigReason
+    #website: https://aclanthology.org/2025.acl-long.959/
+    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    image: ./assets/img/trigreason.png
+    #notes: Main
+
+  - title: "A Riemannian Framework for Structurally Curated Functional Clustering of Brain White Matter Fibers"
+    authors: <strong>Yi Zhao</strong>, Zhipeng Yang, Zhaohua Ding and et al
+    conference_short: TMI 2023
+    conference: IEEE Transactions on Medical Imaging <strong>(TMI)</strong>, 2023.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10058536
+    code: https://github.com/Scbsdk/TSRVF-Brain
+    website: https://ieeexplore.ieee.org/abstract/document/10058536
+    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    image: ./assets/img/TMI-2023.jpg
+    #notes: Main  
